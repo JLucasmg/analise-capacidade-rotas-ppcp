@@ -1,0 +1,5 @@
+id,name,region,trailer_capacity_kg
+1,Rota Norte,Norte,850.0
+2,Rota Sul,Sul,1200.0
+3,Rota Leste,Leste,700.0
+4,Rota Oeste,Oeste,950.0
