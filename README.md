@@ -7,7 +7,7 @@ linha de produção com um limite de capacidade de peso por rota.
 
 > **Nota sobre os dados:** todos os dados usados aqui são **sintéticos**,
 > gerados por script (`scripts/generate_synthetic_data.py`). Nenhuma
-> informação real de qualquer empresa foi utilizada — apenas a estrutura e a
+> informação real de qualquer empresa foi utilizada, apenas a estrutura e a
 > escala do problema foram inspiradas em rotinas reais de PPCP / Material
 > Handling em ambiente industrial.
 
